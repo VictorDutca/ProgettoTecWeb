@@ -1,0 +1,113 @@
+.container {
+    width: 90%;
+}
+
+.hide-on-small-only {
+    display: none;
+}
+
+.show-on-small {
+    display: block;
+}
+
+#menu li {
+    display: block;
+    margin-left: 0;
+}
+
+#topHeader {
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+
+#navbar {
+    position: fixed;
+    display: none;
+}
+
+#navbar-content {
+    width: 100%;
+}
+
+#header-main {
+    text-align: center;
+    display: block;
+}
+
+#title-home {
+    top: 48%;
+    font-size: 2em;
+}
+
+.itemToAlign {
+    width: 100%;
+}
+
+#contact-header {
+    position: absolute;
+    right: 1em;
+    top: 2em;
+}
+
+.before-footer {
+    padding-bottom: 10em !important;
+}
+
+.first-margin-mobile {
+    margin-top: 8em !important;
+}
+
+
+/*eventi*/
+.block-mobile {
+    display: block;
+}
+
+.itemToAligneventi {
+    width: 100%;
+}
+
+.itemToAligneventi img {
+    margin-top: 1em;
+}
+
+.eventi-text {
+    width: auto;
+}
+
+
+/*itinerari*/
+.itinerari img {
+    width: 85%;
+    margin: auto;
+}
+
+.itinerari dd {
+    text-align: left;
+    padding: 0;
+}
+
+.itinerari li {
+    margin-left: 0;
+    margin-top: 1.5em;
+}
+
+.itinerari .paragraph {
+    font-size: 1.4em;
+}
+
+.descrizioneitinerari {
+    line-height: 1em;
+}
+
+
+/*prenota*/
+.form .field.half {
+    width: 100%;
+}
+
+.errorText {
+    font-size: 1.2em;
+}
+
